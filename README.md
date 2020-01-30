@@ -10,20 +10,9 @@ Add classes from 'Architecture' folder in your project (this is important).
 
 ## How to install in your Xcode
 
-### With script:
-
 - In terminal:
 
-`./installTemplate.sh`
-
-### Manual:
-
-- Install from terminal:
-
-`
-mkdir -p $HOME"/Library/Developer/Xcode/Templates/File Templates/Custom/VIPERModule.xctemplate/" && \
-cp -R ./VIPERModule.xctemplate $HOME"/Library/Developer/Xcode/Templates/File Templates/Custom/"
-`
+`./installTemplates.sh`
 
 Done. Now you can find viper module template in Xcode.
 
