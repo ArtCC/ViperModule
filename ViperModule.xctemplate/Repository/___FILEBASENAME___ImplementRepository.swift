@@ -9,5 +9,6 @@
 import Foundation
 
 // MARK: Implement protocol functions.
+
 class ___VARIABLE_viperModuleName___ImplementRepository: ___VARIABLE_viperModuleName___Repository {
 }

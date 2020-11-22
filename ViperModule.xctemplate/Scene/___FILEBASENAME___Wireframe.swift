@@ -13,8 +13,9 @@ protocol ___VARIABLE_viperModuleName___Wireframe: class {
 }
 
 // MARK: - UIViewController extension to implement wireframe protocol.
+
 extension ___VARIABLE_viperModuleName___ViewController: ___VARIABLE_viperModuleName___Wireframe {
-    
-    /// Override prepare(forsegue) method to configure next scene.
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {}
+
+  /// Override prepare(forsegue) method to configure next scene.
+  override func prepare(for segue: UIStoryboardSegue, sender: Any?) {}
 }

@@ -13,15 +13,15 @@ import Foundation
 /// - success: operation finished without error.
 /// - error: operation finished with error.
 enum ___VARIABLE_viperModuleName___RequestResult: Int {
-    
-    case success, error
-    
-    init() {
-        
-        self = .success
-    }
+
+  case success, error
+
+  init() {
+    self = .success
+  }
 }
 
 // MARK: Functions.
+
 protocol ___VARIABLE_viperModuleName___Interactor {
 }
