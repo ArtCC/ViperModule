@@ -39,7 +39,7 @@ class ___VARIABLE_viperModuleName___ViewController: UIViewController {
   }
 }
 
-// MARK: View interface implementation methods.
+// MARK: - View interface implementation methods.
 
 extension ___VARIABLE_viperModuleName___ViewController: ___VARIABLE_viperModuleName___View {
 
@@ -52,7 +52,7 @@ extension ___VARIABLE_viperModuleName___ViewController: ___VARIABLE_viperModuleN
   }
 }
 
-// MARK: Extension for private methods.
+// MARK: - Extension for private methods.
 
 private extension ___VARIABLE_viperModuleName___ViewController {
 }

@@ -8,20 +8,23 @@
 
 import Foundation
 
+// MARK: - Interactor operation result.
+
 /// Enum to know interactor operation result.
 ///
 /// - success: operation finished without error.
 /// - error: operation finished with error.
 enum ___VARIABLE_viperModuleName___RequestResult: Int {
 
-  case success, error
+  case success
+  case error
 
   init() {
     self = .success
   }
 }
 
-// MARK: Functions.
+// MARK: - Protocol functions.
 
 protocol ___VARIABLE_viperModuleName___Interactor {
 }

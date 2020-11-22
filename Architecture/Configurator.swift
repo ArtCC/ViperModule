@@ -1,8 +1,10 @@
 //
-// Configurator
+// Configurator.swift
 //
 
 import UIKit
+
+// MARK: - Protocol functions.
 
 /// Base class to perform base behaviour for the app scene configurators.
 protocol Configurator {

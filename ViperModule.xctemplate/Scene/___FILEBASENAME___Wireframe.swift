@@ -8,6 +8,8 @@
 
 import UIKit
 
+// MARK: - Protocol functions.
+
 /// Wireframe protocol to define routing to other scenes.
 protocol ___VARIABLE_viperModuleName___Wireframe: class {
 }
@@ -16,6 +18,6 @@ protocol ___VARIABLE_viperModuleName___Wireframe: class {
 
 extension ___VARIABLE_viperModuleName___ViewController: ___VARIABLE_viperModuleName___Wireframe {
 
-  /// Override prepare(forsegue) method to configure next scene.
+  /// Override prepare (forsegue) method to configure next scene.
   override func prepare(for segue: UIStoryboardSegue, sender: Any?) {}
 }

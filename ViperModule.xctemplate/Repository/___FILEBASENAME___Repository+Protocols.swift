@@ -8,20 +8,23 @@
 
 import Foundation
 
+// MARK: - Repository operation result.
+
 /// Enum to know repository operation result.
 ///
 /// - ok: operation finished without error.
 /// - error: operation finished with error.
 enum ___VARIABLE_viperModuleName___RepositoryResult: Int {
 
-  case ok, error
+  case ok
+  case error
 
   init() {
     self = .ok
   }
 }
 
-// MARK: Functions.
+// MARK: - Protocol functions.
 
 protocol ___VARIABLE_viperModuleName___Repository {
 }

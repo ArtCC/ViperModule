@@ -8,7 +8,7 @@
 
 import Foundation
 
-// MARK: Implement protocol functions.
+// MARK: - Implement protocol functions.
 
-class ___VARIABLE_viperModuleName___InteractorImpl: ___VARIABLE_viperModuleName___Interactor {
+class ___VARIABLE_viperModuleName___InteractorImplement: ___VARIABLE_viperModuleName___Interactor {
 }

@@ -4,6 +4,8 @@
 
 import Foundation
 
+// MARK: - Protocol functions.
+
 /// Base module interface where we will know the state of the view so we will do the stuff needed.
 protocol Presenter: class {
 
@@ -12,6 +14,8 @@ protocol Presenter: class {
   /// - Parameter status: current UI status (based on iOS view life cycle).
   func viewDidUpdate(status: ViewStatus)
 }
+
+// MARK: - Enum options.
 
 /// Enum to know the status for the view (based on view controller life cycle)
 ///

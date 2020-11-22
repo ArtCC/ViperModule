@@ -4,6 +4,8 @@
 
 import Foundation
 
+// MARK: - Protocol functions.
+
 /// Base view interface for common tasks.
 protocol ViewProtocol: class {
 

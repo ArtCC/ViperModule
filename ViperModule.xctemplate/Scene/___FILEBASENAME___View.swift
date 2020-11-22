@@ -8,6 +8,8 @@
 
 import Foundation
 
+// MARK: - Protocol functions.
+
 /// Presenter implementation to handle abstract scene view logic.
 protocol ___VARIABLE_viperModuleName___View: ViewProtocol {
 }

@@ -12,7 +12,6 @@ import Foundation
 class ___VARIABLE_viperModuleName___Presenter: Presenter {
 
   fileprivate struct Constants {
-    static let duration = TimeInterval(1.5)
   }
 
   fileprivate weak var view: ___VARIABLE_viperModuleName___View!
