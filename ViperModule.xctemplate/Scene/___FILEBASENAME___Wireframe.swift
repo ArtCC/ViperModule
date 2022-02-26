@@ -11,7 +11,7 @@ import UIKit
 // MARK: - Protocol functions.
 
 /// Wireframe protocol to define routing to other scenes.
-protocol ___VARIABLE_viperModuleName___Wireframe: class {
+protocol ___VARIABLE_viperModuleName___Wireframe: AnyObject {
 }
 
 // MARK: - UIViewController extension to implement wireframe protocol.

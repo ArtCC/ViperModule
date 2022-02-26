@@ -7,7 +7,7 @@ import Foundation
 // MARK: - Protocol functions.
 
 /// Base module interface where we will know the state of the view so we will do the stuff needed.
-protocol Presenter: class {
+protocol Presenter: AnyObject {
 
   /// Handle UI status updates to take some actions.
   ///
